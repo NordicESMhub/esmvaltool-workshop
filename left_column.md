@@ -38,4 +38,5 @@ For general questions, please send email to the contact below who is the neareas
 * Tomas Torsvik (UiB, Tomas.Torsvik_at_uib.no )
 * Anne Claire Fouilloux (Simula, annef_at_simula.no)
 * Michael Schulz (MetNO, michaels_at_met.no)
-
+* Oskar Landgren (MetNO, oskar.landgren_at_met.no)
+* Tommi Bergman (FMI, tommi.bergman_at_fmi.fi)

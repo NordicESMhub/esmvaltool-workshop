@@ -17,7 +17,7 @@
 
 The training is designed for PhD students, researchers, model developers, and climate scientists who are interested in leveraging the powerful diagnostic capabilities of ESMValTool for their work with the CMIP model data.
 
-The workshop is targeted for beginner level of the ESMValTool!
+The workshop is targeted for beginner and intermediate level of the ESMValTool!
 
 ### **Software requirements**
 

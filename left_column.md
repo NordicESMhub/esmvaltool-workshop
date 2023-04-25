@@ -5,13 +5,15 @@
 <a class="btn btn-danger disabled" href="#" data-mode="1" target="_blank">Registration is closed</a>
 -->
 
+**Deadline for registration, 5th May, 2023**
+
 ### **Dates**
 - Tuesday (30/May) 09:00 - 16:30 (CEST)
 - Wednesday (31/May) 9:00 - 16:30 (CEST)
 
 ### **Logistics**
 * The participants should organise your own travel and accomodation if you are going to join on-site.
-* Due to some practical reasons, it is not clear now how much grant we can have to support the travel of the participants. You may apply for travel support later and get reimbursed (limited places), but only if you are from the NICEST-2 consortium: NSC, Sigma2, FMI, MetNO, NORCE, NERSC, CSC and Simula.
+* Due to some practical reasons, it is not clear now how much grant we can have to support the travel of the participants. You may apply for travel support later and get reimbursed (limited places), but only if you are from the NICEST-2 consortium: NSC, Sigma2, FMI, MetNO, NORCE, NERSC, CSC and Simula. We may update this matter later.
 
 ### **Who is the course for**
 

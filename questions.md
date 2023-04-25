@@ -18,20 +18,26 @@ This workshop is free of charge. It is sponsored by <a href="https://www.ines.no
 <!--
 This workshop is free of charge. It is supported by <a href="https://www.ines.noresm.org" target="_blank">iNES-interim</a> and <a href="https://neic.no/nicest2/" target="_blank">NICEST2 </a> (funded by <a href="http://www.nordforsk.org/en" target="_blank">NordForsk</a>).
 -->
-This workshop is free of charge. It is supported by <a href="https://neic.no/nicest2/" target="_blank">NICEST2 </a> (funded by <a href="http://www.nordforsk.org/en" target="_blank">NordForsk</a>) and <a href="https://www.ines.noresm.org" target="_blank">iNES-interim</a>.
+This workshop is free of charge. It is supported by <a href="https://neic.no/nicest2/" target="_blank">NICEST2 </a> (funded by <a href="http://www.nordforsk.org/en" target="_blank">NordForsk</a>), <a href="https://www.ines.noresm.org" target="_blank">iNES-interim</a> and <a href="https://keyclim.met.no" target="_blank">KeyCLIM</a>.
 </p>
 <p>
 <a href="https://www.ines.noresm.org" target="_blank">
   <img src="{{ site.baseurl }}/img/ines.png"
        hspace="50"
-       alt="xxx GitHub account"
-       width="100" height="73">
+       alt="INES"
+       width="200px" height="60px">
 </a>
 <a href="https://neic.no/nicest2" target="_blank">
   <img src="{{ site.baseurl }}/img/neic.png"
        hspace="50"
-       alt="xxx Twitter account"
-       width="218" height="60">
+       alt="NICEST2"
+       width="200" height="60">
+</a>
+<a href="https://keyclim.met.no" target="_blank">
+  <img src="{{ site.baseurl }}/img/keyclim.png"
+       hspace="50"
+       alt="KeyCLIM"
+       width="200px" height="60px">
 </a>
 </p>
 <!--

@@ -15,30 +15,30 @@
   [Introductions to ESMValTool.]({{site.baseurl}}/#schedule)
 - 09:45 - 10:15
   (_xxx, xx_) \
-  [CMIP5/6 datasets on NIRD.]({{ site.baseurl}}/#)
+  [CMIP5/6 datasets on NIRD.]({{ site.baseurl}}/#schedule)
 - 10:15 - 10:30 \
   Coffee break  
 - 10:30 - 12:00
   (_xxx, xx_) \
-  [Configure the ESMValTool.]({{ site.baseurl}}/#)
+  [Configure the ESMValTool.]({{ site.baseurl}}/#schedule)
 - 12:00 - 13:00
   Lunch
 
 - 13:00 - 14:00
   (_xxx, xx_) \
-  [Running standard ESMValTool recipes on NIRD.]({{ site.baseurl}}/#)
+  [Running standard ESMValTool recipes on NIRD.]({{ site.baseurl}}/#schedule)
 - 14:00 - 16:30 \
   More hands-on on running ESMValTool.
 
 **Day 2 (May 31 , Wednesday)**
 - 9:00 - 10:15
   (_xxx, xx_) \
-  [Writting your own ESMValTool recipes and diagnostic scripts.]({{ site.baseurl}}/#)
+  [Writting your own ESMValTool recipes and diagnostic scripts.]({{ site.baseurl}}/#schedule)
 - 10:15 - 10:30 \
   Coffee break  
 - 10:30 - 12:00
   (_xxx, xx_) \
-  [Showcasing more advanced receipes developments.]({{ site.baseurl}}/#)
+  [Showcasing more advanced receipes developments.]({{ site.baseurl}}/#schedule)
 - 12:00 - 13:00
   Lunch
 

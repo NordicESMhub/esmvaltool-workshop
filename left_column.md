@@ -13,7 +13,12 @@
 
 ### **Logistics**
 * The participants should organise your own travel and accomodation if you are going to join on-site.
-* Due to some practical reasons, it is not clear now how much grant we can have to support the travel of the participants. You may apply for travel support later and get reimbursed (limited places), but only if you are from the NICEST-2 consortium: NSC, Sigma2, FMI, MetNO, NORCE, NERSC, CSC and Simula. We may update this matter later.
+* Travel grant: due to some unforseen reasons, it is not clear how much grant we can have to support the travel of the participants. We will update this information later to those registered participants.
+
+<!--
+You may apply for travel support later and get reimbursed (limited places), but only if you are from the NICEST-2 consortium: NSC, Sigma2, FMI, MetNO, NORCE, NERSC, CSC and Simula. We may update this matter later.
+-->
+
 
 ### **Who is the course for**
 
@@ -21,13 +26,14 @@ The training is designed for PhD students, researchers, model developers, and cl
 
 The workshop is targeted for beginner and intermediate level of the ESMValTool!
 
-### **Software requirements**
+### Requirements
 
 <mark>Please get familiar with the following softwares.</mark>
 
-* Linux Shell: [Bash](https://scicomp.aalto.fi/scicomp/shell.html)
+* Bring your PC with SSH connections.
+* Basic knowledge of Linux environment: [Bash Shell](https://scicomp.aalto.fi/scicomp/shell.html)
 * Text Editor: [Vim](https://www.openvim.com/) or [Nano](https://www.nano-editor.org/dist/v2.2/nano.html)
-* Source version control: [Git](https://git-scm.com) and [Github](https://www.github.com)
+* Basic knowledge of ESM data (NetCDF)
 * Programming Language:
     - Python (some basics)
     - NCL (optional)

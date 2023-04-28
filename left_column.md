@@ -5,7 +5,7 @@
 <a class="btn btn-danger disabled" href="#" data-mode="1" target="_blank">Registration is closed</a>
 -->
 
-**Deadline for registration, 5th May, 2023**
+**Deadline for registration, 7th May, 2023**
 
 ### **Dates**
 - Tuesday (30/May) 09:00 - 16:30 (CEST)

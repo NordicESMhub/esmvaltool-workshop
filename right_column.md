@@ -67,8 +67,3 @@
 - 14:30 - 16:30 \
   _More hands-on on writing ESMValTool recipes and scripts._
 
-**Day 3 (June 1st, Thursday) (optional, open to everyone)**
-- time xx:xx (TBA) \
-  _Discussion on [the EU Call HORIZON-INFRA-2024-EOSC-01-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2024-eosc-01-01): \
-  FAIR and open data sharing in support of the mission adaptation to climate change._
-

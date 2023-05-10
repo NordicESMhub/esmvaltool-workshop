@@ -1,9 +1,9 @@
 
-<a class="btn btn-success" href="https://forms.gle/QQx7Pi4J7nwNXnrM8" data-mode="1" target="_blank">Register here</a>
 <!--
+<a class="btn btn-success" href="https://forms.gle/QQx7Pi4J7nwNXnrM8" data-mode="1" target="_blank">Register here</a>
 <a class="btn btn-info disabled" href="#" data-mode="1" target="_blank">Registration will open soon</a>
-<a class="btn btn-danger disabled" href="#" data-mode="1" target="_blank">Registration is closed</a>
 -->
+<a class="btn btn-danger disabled" href="#" data-mode="1" target="_blank">Registration is closed</a>
 
 **Deadline for registration, 7th May, 2023**
 
@@ -46,5 +46,3 @@ For general questions, please send email to the contact below who is the neareas
 * Tomas Torsvik (UiB, Tomas.Torsvik_at_uib.no )
 * Anne Claire Fouilloux (Simula, annef_at_simula.no)
 * Michael Schulz (MetNO, michaels_at_met.no)
-* Oskar Landgren (MetNO, oskar.landgren_at_met.no)
-* Tommi Bergman (FMI, tommi.bergman_at_fmi.fi)

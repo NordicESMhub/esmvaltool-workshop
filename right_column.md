@@ -53,12 +53,12 @@
   [Hands-on on running ESMValTool.]()
 
 **Day 2 (May 31 , Wednesday)**
-- 9:00 - 10:15 \
+- 9:00 - 10:00 \
 <!--
   (_xxx, xx_) \
 -->
   [Writting your own ESMValTool recipes and diagnostic scripts.]({{ site.baseurl}}/#schedule)
-- 10:15 - 10:30 Coffee break
+- 10:00 - 10:30 Coffee break
 - 10:30 - 12:00 \
   [Hands-on on writing ESMValTool recipes and scripts.](/#schedule)
 - 12:00 - 13:00
@@ -70,8 +70,8 @@
 -->
   \
   [Showcasing more advanced receipes developments.]({{ site.baseurl}}/#schedule)
-- 14:00 - 14:15
+- 14:00 - 14:30
   Coffee break  
-- 14:15 - 16:30 \
+- 14:30 - 16:30 \
   [More hands-on on writing ESMValTool recipes and scripts.](/#schedule)
 

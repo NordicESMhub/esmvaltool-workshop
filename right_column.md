@@ -8,8 +8,8 @@
 
 ### **Schedule**
 (<mark>The training materials will be uploaded before/after the workshop. </mark>)
+(HackMD notes for Q/A, click [here](https://hackmd.io/@heyc/HygpFqSAr3/edit) to open.)
 
-HackMD notes for Q/A, [link](https://hackmd.io/@heyc/HygpFqSAr3/edit)
 **Day 1 (May 30, Tuesday)**
 - 09:00 - 09:15
 <!--
@@ -38,7 +38,7 @@ HackMD notes for Q/A, [link](https://hackmd.io/@heyc/HygpFqSAr3/edit)
   \
   Configure and run the ESMValTool.
 - 11:30 - 12:00 \
-  Hands-on on exploring CMIP datasets and configuring ESMValTool.
+  Hands-on: explore CMIP datasets and configure ESMValTool.
 - 12:00 - 13:00
   Lunch
 
@@ -51,7 +51,7 @@ HackMD notes for Q/A, [link](https://hackmd.io/@heyc/HygpFqSAr3/edit)
 - 14:00 - 14:30
   Coffee break  
 - 14:30 - 16:30 \
-  Hands-on on running ESMValTool.
+  Hands-on: run standard ESMValTool recipes.
 
 **Day 2 (May 31 , Wednesday)**
 - 9:00 - 10:00 \
@@ -61,7 +61,7 @@ HackMD notes for Q/A, [link](https://hackmd.io/@heyc/HygpFqSAr3/edit)
   Writting your own ESMValTool recipes and diagnostic scripts.
 - 10:00 - 10:30 Coffee break
 - 10:30 - 12:00 \
-  Hands-on on writing ESMValTool recipes and scripts.
+  Hands-on: write ESMValTool recipes and scripts.
 - 12:00 - 13:00
   Lunch
 
@@ -74,5 +74,5 @@ HackMD notes for Q/A, [link](https://hackmd.io/@heyc/HygpFqSAr3/edit)
 - 14:00 - 14:30
   Coffee break  
 - 14:30 - 16:30 \
-  More hands-on on writing ESMValTool recipes and scripts.
+  More hands-on: write ESMValTool recipes and scripts.
 

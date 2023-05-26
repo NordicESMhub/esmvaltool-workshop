@@ -9,6 +9,7 @@
 ### **Schedule**
 (<mark>The training materials will be uploaded before/after the workshop. </mark>)
 
+HackMD notes for Q/A, [link](https://hackmd.io/@heyc/HygpFqSAr3/edit)
 **Day 1 (May 30, Tuesday)**
 - 09:00 - 09:15
 <!--

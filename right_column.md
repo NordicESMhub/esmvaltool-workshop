@@ -15,7 +15,7 @@
   (_xxx, xx_) \
 -->
   \
-  [Welcome]({{site.baseurl}}/#schedule)
+  [Welcome]({{site.baseurl}}/files/html/00-welcome.html)
 - 09:15 - 10:00
 <!--
   (_xxx, xx_) \

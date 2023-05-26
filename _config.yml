@@ -30,3 +30,5 @@ kramdown:
 
 include: ['_pages']
 exclude: ['LICENSE']
+
+disable_disk_cache: true

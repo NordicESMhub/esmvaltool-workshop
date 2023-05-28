@@ -64,10 +64,11 @@ table {
 -->
 
 
-# CMIP5/6 and NorESM on NIRD
+# CMIP5/6 and NorESM datasets on NIRD
 
 Yanchun He (NERSC)
 Alok Gupta (NORCE)
+Tomas Torsvik (UiB)
 
 30th May, 2023
 
@@ -100,20 +101,41 @@ Tempore ad exercitationem necessitatibus nulla, optio distinctio illo non simili
 All the CMIP5/6 dataset by NorESM and other ESMs are storaged on [NIRD](https://documentation.sigma2.no/files_storage/nird/access_lmd.html): the National Infrastructure for Research Data.
 
 ### 1. Logon the NIRD (via the `ipcc` service node).
+The `ipcc` node is a container node of the NIRD, which has more memory capacity for data processing. Currently, all users of one of the following project is granted to access this node. There is an 'ipcc' linux group id for these users.
 
+<div class="columns">
+<div>
+
+```text
+NS10013K	  NS2345K  NS9034K  NS9560K	      NS9588K
+NS1012K		  NS2980K  NS9039K  NS9869K
+NS9015K		  NS9252K  NS9576K  NS9874K
 ```
+To logon:
+```bash
 ssh -l <your_user_name> ipcc.nird.sigma2.no
 ```
+</div>
+
+<div>
+There is a (temporay) user group maillist:
+The user group of the IPCC node:
+
++ Address: ipcc-nird@googlegroups.com
++ Send email:
+    - to subscribe: ipcc-nird+subscribe@googlegroups.com
+    - to unsubscribe: ipcc-nird+unsubscribe@googlegroups.com 
+
+</div>
+</div>
 
 ### 2. Navigate the CMIP data by NorESM and other ESMs.
 
 + data by NorESM
     - `/projects/NS9034K/CMIP5`
     - `/projects/NS9034K/CMIP6`
-
 + data by other ESMs
     - `/projects/NS9560K-datalake/ESGF`
-
 These datasets are read-only to all NIRD users.
 
 ---
@@ -251,10 +273,5 @@ Data under `autosort` will normally be sorted to `/nird/datalake/NS9560K/ESGF/{C
 ---
 # Other business
 
-1.  The user group of the IPCC node:
-    + Address: ipcc-nird@googlegroups.com
-    + Send email:
-        - to subscribe: ipcc-nird+subscribe@googlegroups.com
-        - to unsubscribe: ipcc-nird+unsubscribe@googlegroups.com 
 
 -->

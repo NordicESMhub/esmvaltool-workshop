@@ -58,10 +58,10 @@
 <!--
   (_xxx, xx_) \
 -->
-  Writting your own ESMValTool recipes and diagnostic scripts.
+  [Writting your own ESMValTool recipes and diagnostic scripts]({{site.baseurl}}/files/html/05-write-recipe-script.html)
 - 10:00 - 10:30 Coffee break
 - 10:30 - 12:00 \
-  Hands-on: write ESMValTool recipes and scripts.
+  [Hands-on: write ESMValTool recipes and scripts]((https://nordicesmhub.github.io/esmvaltool-handson/03-write-a-simple-recipes-scripts)
 - 12:00 - 13:00
   Lunch
 
@@ -70,7 +70,7 @@
   (_xxx, xx_) \
 -->
   \
-  Showcasing more advanced receipes developments.
+  [Showcasing more advanced receipes developments]({{site.baseurl}}/files/html/06-advanced.html)
 - 14:00 - 14:30
   Coffee break  
 - 14:30 - 16:30 \

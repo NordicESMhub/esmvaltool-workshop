@@ -61,7 +61,7 @@
   [Writting your own ESMValTool recipes and diagnostic scripts]({{site.baseurl}}/files/html/05-write-recipe-script.html)
 - 10:00 - 10:30 Coffee break
 - 10:30 - 12:00 \
-  [Hands-on: write ESMValTool recipes and scripts]((https://nordicesmhub.github.io/esmvaltool-handson/03-write-a-simple-recipes-scripts)
+  [Hands-on: write ESMValTool recipes and scripts](https://nordicesmhub.github.io/esmvaltool-handson/03-write-a-simple-recipes-scripts)
 - 12:00 - 13:00
   Lunch
 

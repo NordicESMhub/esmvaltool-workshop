@@ -74,5 +74,5 @@
 - 14:00 - 14:30
   Coffee break  
 - 14:30 - 16:30 \
-  More hands-on: write ESMValTool recipes and scripts.
+  [More hands-on: write ESMValTool recipes and scripts](https://nordicesmhub.github.io/esmvaltool-handson/04-more-advanced-recipes-scripts)
 

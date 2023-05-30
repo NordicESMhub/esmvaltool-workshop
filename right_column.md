@@ -22,7 +22,7 @@
   (_xxx, xx_) \
 -->
   \
-  Introductions to ESMValTool.
+  [Introductions to ESMValTool](https://docs.google.com/presentation/d/1I3x46FBkduWO81GWJXKFqInxVA8NZdd2F2StAt6hTiI/edit?usp=sharing)
 - 10:00 - 10:30
   Coffee break  
 - 10:30 - 11:00
@@ -30,15 +30,15 @@
   (_xxx, xx_) \
 -->
   \
-  CMIP5/6 datasets on NIRD.
+  [CMIP5/6 datasets on NIRD]({{site.baseurl}}/files/html/02-cmip-data.html)
 - 11:00 - 11:30
 <!--
   (_xxx, xx_) \
 -->
   \
-  Configure and run the ESMValTool.
+  [Configure and run the ESMValTool](https://docs.google.com/presentation/d/17T0ACJkGSQZg7qGRmPL6u918fARqViWqc0KBq0zzCZQ/edit?usp=sharing)
 - 11:30 - 12:00 \
-  Hands-on: explore CMIP datasets and configure ESMValTool.
+  [Hands-on: explore CMIP datasets and configure ESMValTool](https://nordicesmhub.github.io/esmvaltool-handson/01-find-data-config-esmvaltool/)
 - 12:00 - 13:00
   Lunch
 
@@ -47,11 +47,11 @@
   (_xxx, xx_) \
 -->
   \
-  Running standard ESMValTool recipes on NIRD.
+  [Running standard ESMValTool recipes on NIRD.](https://docs.google.com/presentation/d/1qTrkjKyAZr_FR80OLPcxLHdCG9o3H5UWch85c0J6JyU/edit?usp=sharing)
 - 14:00 - 14:30
   Coffee break  
 - 14:30 - 16:30 \
-  Hands-on: run standard ESMValTool recipes.
+  [Hands-on: run standard ESMValTool recipes](https://nordicesmhub.github.io/esmvaltool-handson/02-run-standard-recipes)
 
 **Day 2 (May 31 , Wednesday)**
 - 9:00 - 10:00 \

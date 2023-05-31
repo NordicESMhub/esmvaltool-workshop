@@ -8,7 +8,7 @@
 
 ### **Schedule**
 (<mark>The training materials will be uploaded before/after the workshop. </mark>)
-(HackMD notes for Q/A, click [here](https://hackmd.io/@heyc/HygpFqSAr3/edit) to open.)
+(HackMD notes for Q/A, click [here, the archived pdf]({{site.baseurl}}/files/misc/hackmd.pdf)) to open.)
 
 **Day 1 (May 30, Tuesday)**
 - 09:00 - 09:15
@@ -16,13 +16,13 @@
   (_xxx, xx_) \
 -->
   \
-  [Welcome]({{site.baseurl}}/files/html/00-welcome.html)
+  [Welcome]({{site.baseurl}}/files/html/00-welcome.html) ([pdf]({{site.baseurl}}/files/pdf/00-welcome.pdf))
 - 09:15 - 10:00
 <!--
   (_xxx, xx_) \
 -->
   \
-  [Introductions to ESMValTool](https://docs.google.com/presentation/d/1I3x46FBkduWO81GWJXKFqInxVA8NZdd2F2StAt6hTiI/edit?usp=sharing)
+  [Introductions to ESMValTool](https://docs.google.com/presentation/d/1I3x46FBkduWO81GWJXKFqInxVA8NZdd2F2StAt6hTiI/edit?usp=sharing) ([pdf]({{site.baseurl}}/files/ppt/01-intro.pdf))
 - 10:00 - 10:30
   Coffee break  
 - 10:30 - 11:00
@@ -30,13 +30,13 @@
   (_xxx, xx_) \
 -->
   \
-  [CMIP5/6 datasets on NIRD]({{site.baseurl}}/files/html/02-cmip-data.html)
+  [CMIP5/6 datasets on NIRD]({{site.baseurl}}/files/html/02-cmip-data.html) ([pdf]({{site.baseurl}}/files/pdf/02-cmip-data.pdf))
 - 11:00 - 11:30
 <!--
   (_xxx, xx_) \
 -->
   \
-  [Configure and run the ESMValTool](https://docs.google.com/presentation/d/17T0ACJkGSQZg7qGRmPL6u918fARqViWqc0KBq0zzCZQ/edit?usp=sharing)
+  [Configure and run the ESMValTool](https://docs.google.com/presentation/d/17T0ACJkGSQZg7qGRmPL6u918fARqViWqc0KBq0zzCZQ/edit?usp=sharing) ([pdf]({{site.baseurl}}/files/ppt/03-esmvaltool.pdf))
 - 11:30 - 12:00 \
   [Hands-on: explore CMIP datasets and configure ESMValTool](https://nordicesmhub.github.io/esmvaltool-handson/01-find-data-config-esmvaltool/)
 - 12:00 - 13:00
@@ -47,7 +47,7 @@
   (_xxx, xx_) \
 -->
   \
-  [Running standard ESMValTool recipes on NIRD.](https://docs.google.com/presentation/d/1qTrkjKyAZr_FR80OLPcxLHdCG9o3H5UWch85c0J6JyU/edit?usp=sharing)
+  [Running standard ESMValTool recipes on NIRD.](https://docs.google.com/presentation/d/1qTrkjKyAZr_FR80OLPcxLHdCG9o3H5UWch85c0J6JyU/edit?usp=sharing) ([pdf]({{site.baseurl}}/files/ppt/04-recipes.pdf))
 - 14:00 - 14:30
   Coffee break  
 - 14:30 - 16:30 \
@@ -58,7 +58,7 @@
 <!--
   (_xxx, xx_) \
 -->
-  [Writting your own ESMValTool recipes and diagnostic scripts]({{site.baseurl}}/files/html/05-write-recipe-script.html)
+  [Writting your own ESMValTool recipes and diagnostic scripts]({{site.baseurl}}/files/html/05-write-recipe-script.html) ([pdf]({{site.baseurl}}/files/pdf/05-write-recipe-script.pdf))
 - 10:00 - 10:30 Coffee break
 - 10:30 - 12:00 \
   [Hands-on: write ESMValTool recipes and scripts](https://nordicesmhub.github.io/esmvaltool-handson/03-write-a-simple-recipes-scripts)
@@ -70,7 +70,7 @@
   (_xxx, xx_) \
 -->
   \
-  [Showcasing more advanced receipes developments]({{site.baseurl}}/files/html/06-advanced.html)
+  [Showcasing more advanced receipes developments]({{site.baseurl}}/files/html/06-advanced.html) ([pdf]({{site.baseurl}}/files/pdf/06-advanced.pdf))
 - 14:00 - 14:30
   Coffee break  
 - 14:30 - 16:30 \

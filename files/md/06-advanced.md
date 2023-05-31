@@ -117,6 +117,14 @@ Add observational data and CMORize, i.e., making it CF-compliant.
 <div class="columns">
 <div>
 
+### Standard approach
+ https://docs.esmvaltool.org/en/latest/develop/dataset.html
+
++ add dataset description in `datasets.yml`
++ add cmorization configuration file, e.g., `ERA-20C.yml`
++ add download script, e.g., `download_era_20c.py`
++ add cmorizier script, e.g., `formatters/datasets/era-20c.py`
+
 ```bash
 $ yanchun@ipcc:~/diagnostics/esmvaltool
 $ git status
@@ -135,6 +143,11 @@ Untracked files:
 
 </div>
 <div>
+
+### A quick hack approach
+**Use NCO/CDO to format the manually downloaed observational data**
+
+An example: https://github.com/NordicESMhub/ESMValTool-recipes/blob/main/cmorizers/cmorize_era20c.sh
 
 ```bash
 #!/bin/env bash
@@ -169,8 +182,6 @@ ncatted -a standard_name,psl,m,c,air_pressure_at_mean_sea_level OBS6_ERA-20C_rea
 # rename long_name
 ncatted -a long_name,psl,m,c,"Sea Level Pressure" OBS6_ERA-20C_reanaly_1_Amon_psl_190001-201012.nc
 ```
-[https://github.com/NordicESMhub/ESMValTool-recipes/blob/main/cmorizers/cmorize_era20c.sh](https://github.com/NordicESMhub/ESMValTool-recipes/blob/main/cmorizers/cmorize_era20c.sh)
-
 
 </div>
 </div>

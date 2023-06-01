@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7993930.svg)](https://doi.org/10.5281/zenodo.7993930)
+
 ## ESMValTool Workshop 2023
 > An introductory course on how to configure, run and make your own recipes for ESMValtool.
 
